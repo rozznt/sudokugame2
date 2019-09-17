@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sudoku game</string>
+    <string name="about_text"> the best sudoku game made by Phuoclee ahihi
+    </string>
+    <string name="no_moves_lable"> NO moves </string>
+
+</resources>

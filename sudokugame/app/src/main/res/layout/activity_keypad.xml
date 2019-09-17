@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:stretchColumns="*"
+    android:id="@+id/keypad"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableRow>
+        <Button
+            android:id="@+id/btt1"
+            android:text="1"
+            >
+        </Button>
+
+        <Button
+            android:id="@+id/btt2"
+            android:text="2"
+>
+        </Button>
+        <Button
+            android:id="@+id/btt3"
+            android:text="3"
+            >
+
+
+        </Button>
+
+    </TableRow>
+<TableRow>
+    <Button
+        android:id="@+id/btt4"
+        android:text="4"
+
+        >
+    </Button>
+    <Button
+        android:id="@+id/btt5"
+        android:text="5"
+        >
+
+    </Button>
+    <Button
+        android:id="@+id/btt6"
+        android:text="6"
+
+        >
+
+    </Button>
+</TableRow>
+    <TableRow>
+        <Button
+            android:id="@+id/btt7"
+            android:text="7"
+            >
+        </Button>
+        <Button
+            android:id="@+id/btt8"
+            android:text="8"
+
+            >
+
+
+        </Button>
+        <Button
+            android:id="@+id/btt9"
+            android:text="9"
+            >
+
+        </Button>
+
+    </TableRow>
+
+
+</TableLayout>

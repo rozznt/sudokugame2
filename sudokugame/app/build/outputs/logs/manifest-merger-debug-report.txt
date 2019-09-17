@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\67ef8a82cf74415c03ec9ae5c525a229\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4f990607d4ae34d70cdf468c2ad1f4e4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\5df4596e2614bd181a48a3f74ef2f81f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\06e46e5d7fedaa9497a371fb927f3e7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9449f6afca16d999f8517694188601fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\45e08c96d2d92e36349e3263cc5b49ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\0fcde3efce52d6546fefdafd8c0fd32f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\ab6dc299909117938665c4e93b5c3a5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\e1cb43dd6b7933b89a64a94787fa5cdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\e91ffc33c2e4c9ebb2d972d1bb27c306\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\1395552c7d01901e063f39eeb1e31b34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4f02920164d63c691b778e9838bacde7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9b086a20e41fd6ddb965f12dd2e279b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4cf7016719ce969de12de48515bb95cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\7873f87d41f8ff3032de56f4e82c843f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9e73d8cd408740fd440b1c97ecbfd472\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\0cd2ed39560c6b7c2296b7a1d0daedd6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\ea02ad24eb3294f174be130169a0a560\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\f0fb0b246fc73dc91c3c1ec99b1da74b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\1f6818e75babbb8545814f4f075fcd75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\d63aae2b0da67566ff35c71061f40452\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\abdbbb6adeede6b2ddf3367c266f3af9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\dc6fc2ae2e636935022ac1bbab3b0876\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\8a103b5f344444dee2f889c53e75dc1f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\348516c1d954bc633743a56d955461cf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\48b9d5426f67a4cc5c4f171f185efbb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9f08799557382fa48599a327a3272030\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:2:1-18:12
+		INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:2:1-18:12
+		INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:5:5-16:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4f990607d4ae34d70cdf468c2ad1f4e4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4f990607d4ae34d70cdf468c2ad1f4e4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9e73d8cd408740fd440b1c97ecbfd472\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9e73d8cd408740fd440b1c97ecbfd472\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\0cd2ed39560c6b7c2296b7a1d0daedd6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\0cd2ed39560c6b7c2296b7a1d0daedd6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9e73d8cd408740fd440b1c97ecbfd472\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:11:9-40
+meta-data#com.google.android.actions
+ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:12:9-14:44
+	android:resource
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:14:13-41
+	android:name
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml:13:13-54
+uses-sdk
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\67ef8a82cf74415c03ec9ae5c525a229\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\67ef8a82cf74415c03ec9ae5c525a229\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4f990607d4ae34d70cdf468c2ad1f4e4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4f990607d4ae34d70cdf468c2ad1f4e4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\5df4596e2614bd181a48a3f74ef2f81f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\5df4596e2614bd181a48a3f74ef2f81f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\06e46e5d7fedaa9497a371fb927f3e7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\06e46e5d7fedaa9497a371fb927f3e7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9449f6afca16d999f8517694188601fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9449f6afca16d999f8517694188601fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\45e08c96d2d92e36349e3263cc5b49ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\45e08c96d2d92e36349e3263cc5b49ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\0fcde3efce52d6546fefdafd8c0fd32f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\0fcde3efce52d6546fefdafd8c0fd32f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\ab6dc299909117938665c4e93b5c3a5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\ab6dc299909117938665c4e93b5c3a5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\e1cb43dd6b7933b89a64a94787fa5cdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\e1cb43dd6b7933b89a64a94787fa5cdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\e91ffc33c2e4c9ebb2d972d1bb27c306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\e91ffc33c2e4c9ebb2d972d1bb27c306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\1395552c7d01901e063f39eeb1e31b34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\1395552c7d01901e063f39eeb1e31b34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4f02920164d63c691b778e9838bacde7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4f02920164d63c691b778e9838bacde7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9b086a20e41fd6ddb965f12dd2e279b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9b086a20e41fd6ddb965f12dd2e279b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4cf7016719ce969de12de48515bb95cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\4cf7016719ce969de12de48515bb95cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\7873f87d41f8ff3032de56f4e82c843f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\7873f87d41f8ff3032de56f4e82c843f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9e73d8cd408740fd440b1c97ecbfd472\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9e73d8cd408740fd440b1c97ecbfd472\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\0cd2ed39560c6b7c2296b7a1d0daedd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\0cd2ed39560c6b7c2296b7a1d0daedd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\ea02ad24eb3294f174be130169a0a560\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\ea02ad24eb3294f174be130169a0a560\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\f0fb0b246fc73dc91c3c1ec99b1da74b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\f0fb0b246fc73dc91c3c1ec99b1da74b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\1f6818e75babbb8545814f4f075fcd75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\1f6818e75babbb8545814f4f075fcd75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\d63aae2b0da67566ff35c71061f40452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\d63aae2b0da67566ff35c71061f40452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\abdbbb6adeede6b2ddf3367c266f3af9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\abdbbb6adeede6b2ddf3367c266f3af9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\dc6fc2ae2e636935022ac1bbab3b0876\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\dc6fc2ae2e636935022ac1bbab3b0876\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\8a103b5f344444dee2f889c53e75dc1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\8a103b5f344444dee2f889c53e75dc1f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\348516c1d954bc633743a56d955461cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\348516c1d954bc633743a56d955461cf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\48b9d5426f67a4cc5c4f171f185efbb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\48b9d5426f67a4cc5c4f171f185efbb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9f08799557382fa48599a327a3272030\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\love's garden\.gradle\caches\transforms-2\files-2.1\9f08799557382fa48599a327a3272030\AndroidManifest.xml:20:5-44
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml
+		ADDED from D:\sudokugame\app\src\main\AndroidManifest.xml
+		INJECTED from D:\sudokugame\app\src\main\AndroidManifest.xml

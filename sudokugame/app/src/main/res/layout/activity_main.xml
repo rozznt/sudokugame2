@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:padding="20dp"
+    android:background="@drawable/ok"
+
+
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_gravity="center">
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Sudoku "
+        android:fontFamily="casual"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:textColor="#CE24CC11"
+        android:id="@+id/txt2"
+        android:layout_gravity="center"
+        android:gravity="center"
+
+        />
+
+     <TableLayout
+
+         android:layout_marginTop="30dp"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:stretchColumns="*"
+         >
+
+         <TableRow
+             android:layout_marginVertical="30dp"
+             >
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt1"
+        android:text="New game"
+        android:textSize="35sp"
+        android:textColor="#4CAF50"
+        android:background="@android:color/holo_orange_light"
+        android:layout_marginRight="10dp"
+
+
+
+
+        />
+    <Button
+        android:id="@+id/bt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:textSize="35sp"
+        android:textColor="#f000"
+        android:background="@android:color/holo_blue_bright"
+        android:layout_marginLeft="10dp"
+
+
+
+        />
+         </TableRow>
+         <TableRow>
+    <Button
+        android:id="@+id/bt3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        android:textColor="#f000"
+        android:layout_marginRight="10dp"
+        android:textSize="35sp"
+        android:background="@android:color/holo_orange_dark"/>
+    <Button
+        android:id="@+id/bt4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:textSize="35sp"
+        android:layout_marginLeft="10dp"
+        android:background="#F06292"
+        android:textColor="#083D8D"/>
+
+         </TableRow>
+
+     </TableLayout>
+</LinearLayout>
+</LinearLayout>
